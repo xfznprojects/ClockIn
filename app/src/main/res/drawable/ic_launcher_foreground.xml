@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Contactless tap launcher icon: tap point + radiating waves -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M40,54 m-6,0 a6,6 0 1 1 12,0 a6,6 0 1 1 -12,0" />
+    <path
+        android:pathData="M49.9,44.1 A14,14 0 0 1 49.9,63.9"
+        android:strokeWidth="5"
+        android:strokeColor="#FFFFFF"
+        android:strokeLineCap="round" />
+    <path
+        android:pathData="M55.6,38.4 A22,22 0 0 1 55.6,69.6"
+        android:strokeWidth="5"
+        android:strokeColor="#FFFFFF"
+        android:strokeLineCap="round" />
+    <path
+        android:pathData="M61.2,32.8 A30,30 0 0 1 61.2,75.2"
+        android:strokeWidth="5"
+        android:strokeColor="#FFFFFF"
+        android:strokeLineCap="round" />
+</vector>
